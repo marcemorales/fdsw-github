@@ -30,7 +30,7 @@ Se realizaron cambios nuevamente pero esta vez con datos personales (se observan
 
 ![Anterior](https://i.imgur.com/pOpoifJ.png)
 
-![actual](https://i.imgur.com/8xaqTJm.jpeg)
+![actual](https://i.imgur.com/uyW2CsP.png)
 
 ---
 
