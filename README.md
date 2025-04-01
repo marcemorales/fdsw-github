@@ -1,6 +1,6 @@
 # fdsw-github
 
-Cambios realizados en primera instancia:
+Cambios realizados en primera instancia (no se observan en la página principal):
 
 1. Se cambió fotografia del header
 2. Se cambiaron textos del navbar
@@ -16,7 +16,7 @@ Cambios realizados en primera instancia:
 12. Se agregó descripción de las zonas
 13. Se agregó textos de las postales.
 
-Se realizaron cambios nuevamente pero esta vez con datos personales:
+Se realizaron cambios nuevamente pero esta vez con datos personales (se observan en la página principal):
 
 14. Se cambió el titulo h1 por nombre personal
 15. Se cambió texto de descripción por propia
@@ -25,12 +25,12 @@ Se realizaron cambios nuevamente pero esta vez con datos personales:
 18. Se cambió titulo del head
 19. Se agregó formación educacional
 20. Cambio de foto del header
-21. 
+21. Cambios menores a textos
 
 
 ![Anterior](https://i.imgur.com/pOpoifJ.png)
 
-![actual]()
+![actual](https://i.imgur.com/8xaqTJm.jpeg)
 
 ---
 
