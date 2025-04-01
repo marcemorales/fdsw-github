@@ -23,6 +23,7 @@ Se realizaron cambios nuevamente pero esta vez con datos personales:
 16. Se cambió texto del navbar
 17. Se modificó texto del footer
 18. Se cambió titulo del head
+19. Se agregó formación educacional
 
 
 ![](https://i.imgur.com/pOpoifJ.png)
