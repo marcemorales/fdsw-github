@@ -26,7 +26,9 @@ Se realizaron cambios nuevamente pero esta vez con datos personales:
 19. Se agregó formación educacional
 
 
-![](https://i.imgur.com/pOpoifJ.png)
+![Anterior](https://i.imgur.com/pOpoifJ.png)
+
+![actual](https://i.imgur.com/6Cici0m.png)
 
 ---
 
