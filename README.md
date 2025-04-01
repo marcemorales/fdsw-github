@@ -1,6 +1,6 @@
 # fdsw-github
 
-Cambios realizados:
+Cambios realizados en primera instancia:
 
 1. Se cambió fotografia del header
 2. Se cambiaron textos del navbar
@@ -14,7 +14,16 @@ Cambios realizados:
 10. Se agregó descripción en el header
 11. Se cambió el texto en el botón del header
 12. Se agregó descripción de las zonas
-13. Se agregó textos de las postales. 
+13. Se agregó textos de las postales.
+
+Se realizaron cambios nuevamente pero esta vez con datos personales:
+
+14. Se cambió el titulo h1 por nombre personal
+15. Se cambió texto de descripción por propia
+16. Se cambió texto del navbar
+17. Se modificó texto del footer
+18. Se cambió titulo del head
+
 
 ![](https://i.imgur.com/pOpoifJ.png)
 
