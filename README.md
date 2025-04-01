@@ -24,11 +24,13 @@ Se realizaron cambios nuevamente pero esta vez con datos personales:
 17. Se modificó texto del footer
 18. Se cambió titulo del head
 19. Se agregó formación educacional
+20. Cambio de foto del header
+21. 
 
 
 ![Anterior](https://i.imgur.com/pOpoifJ.png)
 
-![actual](https://i.imgur.com/6Cici0m.png)
+![actual]()
 
 ---
 
